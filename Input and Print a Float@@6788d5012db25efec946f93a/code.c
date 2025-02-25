@@ -4,5 +4,5 @@ int main();
 {
     float m;
     scanf("%f",&m);
-    printf("%f",m)
+    printf("%f",m);
 }
