@@ -4,6 +4,6 @@ int main(){
     int a;
     int s;
     scanf("%d %d",&a,&s);
-if(a>0 || b>0){printf("True");}
+if(a>0 || s>0){printf("True");}
 else{printf("False");}
 }
