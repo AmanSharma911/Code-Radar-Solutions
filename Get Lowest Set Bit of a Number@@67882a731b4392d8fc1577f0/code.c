@@ -1,4 +1,4 @@
-// Your code here...#include <stdio.h>
+#include <stdio.h>
 
 int findLowestSetBitPosition(int number) {
     int position = 1;
