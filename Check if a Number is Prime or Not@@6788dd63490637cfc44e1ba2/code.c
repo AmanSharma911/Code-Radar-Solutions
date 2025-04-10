@@ -10,7 +10,7 @@ int main(){
         break;}
         }
         if(b==0) printf("Prime");
-        else prinf("Not Prime");
+        else printf("Not Prime");
         
     
 }
