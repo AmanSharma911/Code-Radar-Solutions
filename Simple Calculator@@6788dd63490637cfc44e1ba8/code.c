@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 int main(){
-    float a,b;
+    int a,b;
     char d;
     scanf("%d %d %c",&a,&b,&d);
     if(d=='+'){printf("%d",a+b);}
