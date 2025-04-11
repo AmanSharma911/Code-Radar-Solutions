@@ -7,6 +7,6 @@ int main(){
     if(d=='+'){printf("%d",a+b);}
     else if(d=='-'){printf("%d",a-b);}
     else if(d=='*'){printf("%d",a*b);}
-    else if(d=='/'){printf("%d",a/b);}
+    else if(d=='/'){printf("%f",a/b);}
     else{printf("error");}
    return 0;}
